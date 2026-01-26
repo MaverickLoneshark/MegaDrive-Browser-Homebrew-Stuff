@@ -1,0 +1,15 @@
+body {
+	background-color: #000000;
+	color: #808080;
+}
+
+.centered {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.bottom {
+	position: relative;
+	top: 16px;
+}
